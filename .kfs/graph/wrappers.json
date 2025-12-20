@@ -5,12 +5,12 @@
       "type": "wrapper",
       "title": "New Wrapper",
       "position": {
-        "x": 690.4550848198091,
-        "y": 541.0747330600093
+        "x": 751.5001933289643,
+        "y": 542.4603117530663
       },
       "size": {
-        "width": 428.03359029649823,
-        "height": 524.2372102434333
+        "width": 441.4300085015491,
+        "height": 536.9065255324665
       },
       "created": "2025-12-20T19:19:45.251Z",
       "modified": "2025-12-20T19:19:45.251Z",
@@ -18,7 +18,7 @@
       "contentRef": null,
       "pinned": false,
       "parent_ids": [],
-      "collapsed": true,
+      "collapsed": false,
       "color": "#3b82f6"
     }
   ]
