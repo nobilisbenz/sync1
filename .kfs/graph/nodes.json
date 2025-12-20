@@ -1,1 +1,130 @@
-{"nodes": []}
+{
+  "nodes": [
+    {
+      "id": "6afd652c-0239-42ea-97e2-433f2e26078b",
+      "type": "code",
+      "title": "6afd652c-0239-42ea-97e2-433f2e26078b",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T19:06:26.168926581+00:00",
+      "modified": "2025-12-20T19:06:26.168936708+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
+      "type": "quiz",
+      "title": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
+      "position": {
+        "x": 882.0692340014426,
+        "y": 429.6441291931054
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T19:06:26.168984200+00:00",
+      "modified": "2025-12-20T19:06:26.168987552+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "802463eb-cee6-4a90-b10f-980c9822df8f",
+      "type": "code",
+      "title": "802463eb-cee6-4a90-b10f-980c9822df8f",
+      "position": {
+        "x": 789.645574781311,
+        "y": 643.4468646503219
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T19:06:26.169039305+00:00",
+      "modified": "2025-12-20T19:06:26.169042657+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
+      "type": "code",
+      "title": "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T19:06:26.169087355+00:00",
+      "modified": "2025-12-20T19:06:26.169090708+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "09c4946a-89f5-434f-9d75-4fa77407350a",
+      "type": "video",
+      "title": "09c4946a-89f5-434f-9d75-4fa77407350a",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T19:06:26.169132333+00:00",
+      "modified": "2025-12-20T19:06:26.169135197+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "76b06011-e235-45e3-b938-d1aafbeb5dbf",
+      "type": "text",
+      "title": "76b06011-e235-45e3-b938-d1aafbeb5dbf",
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T19:06:26.169184155+00:00",
+      "modified": "2025-12-20T19:06:26.169187577+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    }
+  ]
+}
