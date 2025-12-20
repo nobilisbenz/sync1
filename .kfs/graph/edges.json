@@ -1,3 +1,12 @@
 {
-  "edges": []
+  "edges": [
+    {
+      "id": "ab3a2064-69b6-4ae1-94fa-e83010daf69b",
+      "source": "6afd652c-0239-42ea-97e2-433f2e26078b",
+      "target": "802463eb-cee6-4a90-b10f-980c9822df8f",
+      "type": "default",
+      "label": null,
+      "strength": null
+    }
+  ]
 }
