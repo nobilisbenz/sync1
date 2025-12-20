@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "id": "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
+      "type": "code",
+      "title": "New Node",
+      "position": {
+        "x": 839.931197864891,
+        "y": 593.3389904910331
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T17:16:30.682Z",
+      "modified": "2025-12-20T17:16:30.682Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "09c4946a-89f5-434f-9d75-4fa77407350a",
+      "type": "video",
+      "title": "New Node",
+      "position": {
+        "x": 959.6600903931115,
+        "y": 441.0588453518021
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T17:16:32.366Z",
+      "modified": "2025-12-20T17:16:32.366Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
+      "type": "quiz",
+      "title": "New Node",
+      "position": {
+        "x": 1062.9308191835505,
+        "y": 556.7803785961956
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T17:16:34.254Z",
+      "modified": "2025-12-20T17:16:34.254Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
+      "collapsed": null,
+      "color": null
+    }
+  ]
+}
