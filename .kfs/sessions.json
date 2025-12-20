@@ -4,8 +4,10 @@
       "id": "b80613db-7683-4feb-bdcd-ad47fc6894af",
       "name": "a",
       "createdAt": "2025-12-20T20:23:33.478253920+00:00",
-      "lastActive": "2025-12-20T20:23:33.478262373+00:00",
-      "completedNodes": []
+      "lastActive": "2025-12-20T20:24:54.418821988+00:00",
+      "completedNodes": [
+        "802463eb-cee6-4a90-b10f-980c9822df8f"
+      ]
     },
     {
       "id": "50e832be-8e44-44ed-b84d-7748656e7cd3",
@@ -13,11 +15,11 @@
       "createdAt": "2025-12-20T20:24:33.555434204+00:00",
       "lastActive": "2025-12-20T20:24:49.805633509+00:00",
       "completedNodes": [
-        "76b06011-e235-45e3-b938-d1aafbeb5dbf",
         "6e89ff96-d3f9-438b-92cc-c440f0c94771",
-        "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac"
+        "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
+        "76b06011-e235-45e3-b938-d1aafbeb5dbf"
       ]
     }
   ],
-  "active_session_id": "50e832be-8e44-44ed-b84d-7748656e7cd3"
+  "active_session_id": "b80613db-7683-4feb-bdcd-ad47fc6894af"
 }
