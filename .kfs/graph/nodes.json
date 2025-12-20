@@ -5,8 +5,8 @@
       "type": "quiz",
       "title": "azz",
       "position": {
-        "x": 659.2559266946588,
-        "y": 609.0895326563957
+        "x": 677.5481748624887,
+        "y": 570.9419799271017
       },
       "size": {
         "width": 300.0,
@@ -22,33 +22,12 @@
       "color": null
     },
     {
-      "id": "bb74508d-f3e6-45ed-8dcf-56ab10fa79ef",
-      "type": "text",
-      "title": "a",
-      "position": {
-        "x": 814.020647752694,
-        "y": 358.0116870742915
-      },
-      "size": {
-        "width": 300.0,
-        "height": 200.0
-      },
-      "created": "2025-12-20T17:49:15.474308292+00:00",
-      "modified": "2025-12-20T17:49:15.474311085+00:00",
-      "tags": [],
-      "contentRef": null,
-      "pinned": null,
-      "parent_ids": [],
-      "collapsed": null,
-      "color": null
-    },
-    {
       "id": "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
       "type": "code",
       "title": "b",
       "position": {
-        "x": 855.7383020157605,
-        "y": 652.1238690927295
+        "x": 873.4760811346025,
+        "y": 613.7787743542779
       },
       "size": {
         "width": 300.0,
@@ -68,8 +47,8 @@
       "type": "video",
       "title": "c",
       "position": {
-        "x": 957.3291979923242,
-        "y": 479.31219826863327
+        "x": 975.7083434546992,
+        "y": 441.88749922831016
       },
       "size": {
         "width": 300.0,
@@ -89,8 +68,8 @@
       "type": "text",
       "title": "dd",
       "position": {
-        "x": 1129.370519966344,
-        "y": 573.4133107434257
+        "x": 1148.4155357013574,
+        "y": 535.3011628455573
       },
       "size": {
         "width": 80.0,
@@ -101,7 +80,7 @@
       "tags": [],
       "contentRef": null,
       "pinned": false,
-      "parent_ids": null,
+      "parent_ids": [],
       "collapsed": null,
       "color": null
     },
@@ -110,8 +89,8 @@
       "type": "text",
       "title": "xx",
       "position": {
-        "x": 1224.3793734856265,
-        "y": 745.0354398897381
+        "x": 1243.0650763614085,
+        "y": 708.2355554611186
       },
       "size": {
         "width": 80.0,
@@ -122,28 +101,7 @@
       "tags": [],
       "contentRef": null,
       "pinned": false,
-      "parent_ids": null,
-      "collapsed": null,
-      "color": null
-    },
-    {
-      "id": "443f6cba-ab44-44a4-bf7a-415c6f5a0344",
-      "type": "video",
-      "title": "New Node",
-      "position": {
-        "x": 1064.8479259802527,
-        "y": 300.257733509437
-      },
-      "size": {
-        "width": 80.0,
-        "height": 80.0
-      },
-      "created": "2025-12-20T17:53:32.718Z",
-      "modified": "2025-12-20T17:53:32.718Z",
-      "tags": [],
-      "contentRef": null,
-      "pinned": false,
-      "parent_ids": null,
+      "parent_ids": [],
       "collapsed": null,
       "color": null
     }

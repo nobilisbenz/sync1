@@ -1,14 +1,6 @@
 {
   "edges": [
     {
-      "id": "a1872586-b773-4aa1-a39c-c2cc7d83ab2e",
-      "source": "bb74508d-f3e6-45ed-8dcf-56ab10fa79ef",
-      "target": "09c4946a-89f5-434f-9d75-4fa77407350a",
-      "type": "default",
-      "label": null,
-      "strength": null
-    },
-    {
       "id": "fe54af01-7127-4119-af23-270ebebfc669",
       "source": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
       "target": "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
@@ -36,14 +28,6 @@
       "id": "a2fd4f77-88f6-483b-842d-de3eb73df750",
       "source": "76b06011-e235-45e3-b938-d1aafbeb5dbf",
       "target": "0ba76104-c762-46dc-9d58-6ab74dd75a63",
-      "type": "default",
-      "label": null,
-      "strength": null
-    },
-    {
-      "id": "affe5fed-07b2-4614-b50e-56efdd8004e6",
-      "source": "bb74508d-f3e6-45ed-8dcf-56ab10fa79ef",
-      "target": "443f6cba-ab44-44a4-bf7a-415c6f5a0344",
       "type": "default",
       "label": null,
       "strength": null
