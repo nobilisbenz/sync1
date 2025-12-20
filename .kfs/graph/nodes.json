@@ -5,8 +5,8 @@
       "type": "quiz",
       "title": "azz",
       "position": {
-        "x": 651.9974896049812,
-        "y": 527.8400206127058
+        "x": 233.98291879493527,
+        "y": 557.6018398725141
       },
       "size": {
         "width": 300.0,
@@ -26,8 +26,8 @@
       "type": "code",
       "title": "b",
       "position": {
-        "x": 847.6558222232717,
-        "y": 570.6230748244243
+        "x": 429.4903332841299,
+        "y": 600.3562578444233
       },
       "size": {
         "width": 300.0,
@@ -47,8 +47,8 @@
       "type": "video",
       "title": "c",
       "position": {
-        "x": 949.183597781273,
-        "y": 398.3272456818795
+        "x": 530.6716169524253,
+        "y": 427.84776157484305
       },
       "size": {
         "width": 300.0,
@@ -68,8 +68,8 @@
       "type": "text",
       "title": "dd",
       "position": {
-        "x": 1123.2989054096686,
-        "y": 492.1475285847448
+        "x": 696.6060731111005,
+        "y": 592.8725296371995
       },
       "size": {
         "width": 80.0,
@@ -81,6 +81,27 @@
       "contentRef": null,
       "pinned": false,
       "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "802463eb-cee6-4a90-b10f-980c9822df8f",
+      "type": "code",
+      "title": "New Node",
+      "position": {
+        "x": 623.8238820139043,
+        "y": 727.8604848279487
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T18:25:56.995Z",
+      "modified": "2025-12-20T18:25:56.995Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
       "collapsed": null,
       "color": null
     }
