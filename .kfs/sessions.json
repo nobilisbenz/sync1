@@ -6,7 +6,16 @@
       "createdAt": "2025-12-20T20:23:33.478253920+00:00",
       "lastActive": "2025-12-20T20:23:33.478262373+00:00",
       "completedNodes": []
+    },
+    {
+      "id": "50e832be-8e44-44ed-b84d-7748656e7cd3",
+      "name": "test",
+      "createdAt": "2025-12-20T20:24:33.555434204+00:00",
+      "lastActive": "2025-12-20T20:24:36.675504738+00:00",
+      "completedNodes": [
+        "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac"
+      ]
     }
   ],
-  "active_session_id": "b80613db-7683-4feb-bdcd-ad47fc6894af"
+  "active_session_id": "50e832be-8e44-44ed-b84d-7748656e7cd3"
 }
