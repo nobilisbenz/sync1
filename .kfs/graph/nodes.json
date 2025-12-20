@@ -3,10 +3,10 @@
     {
       "id": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
       "type": "quiz",
-      "title": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
+      "title": "azz",
       "position": {
-        "x": 774.5233364001848,
-        "y": 605.6180261012402
+        "x": 720.2937216594918,
+        "y": 597.3198361767809
       },
       "size": {
         "width": 300.0,
@@ -26,8 +26,8 @@
       "type": "text",
       "title": "a",
       "position": {
-        "x": 919.5460154818576,
-        "y": 362.8849453072757
+        "x": 859.7321052658082,
+        "y": 354.8287633177268
       },
       "size": {
         "width": 300.0,
@@ -47,8 +47,8 @@
       "type": "code",
       "title": "b",
       "position": {
-        "x": 1016.045819016038,
-        "y": 680.2129819833643
+        "x": 945.6356309278308,
+        "y": 661.0798208821402
       },
       "size": {
         "width": 300.0,
@@ -68,8 +68,8 @@
       "type": "video",
       "title": "c",
       "position": {
-        "x": 1121.9969824584718,
-        "y": 475.31614259349976
+        "x": 1049.1224888298418,
+        "y": 466.5853152395382
       },
       "size": {
         "width": 300.0,
@@ -81,6 +81,48 @@
       "contentRef": null,
       "pinned": null,
       "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "76b06011-e235-45e3-b938-d1aafbeb5dbf",
+      "type": "text",
+      "title": "dd",
+      "position": {
+        "x": 1216.9885098608177,
+        "y": 575.1078304625228
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T17:52:31.956Z",
+      "modified": "2025-12-20T17:52:31.956Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "0ba76104-c762-46dc-9d58-6ab74dd75a63",
+      "type": "text",
+      "title": "New Node",
+      "position": {
+        "x": 1297.0,
+        "y": 723.0
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T17:53:08.886Z",
+      "modified": "2025-12-20T17:53:08.886Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
       "collapsed": null,
       "color": null
     }
