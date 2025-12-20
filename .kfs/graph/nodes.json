@@ -1,1 +1,88 @@
-{"nodes": []}
+{
+  "nodes": [
+    {
+      "id": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
+      "type": "quiz",
+      "title": "6e89ff96-d3f9-438b-92cc-c440f0c94771",
+      "position": {
+        "x": 239.137722877523,
+        "y": 589.024750274245
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T17:49:15.474258564+00:00",
+      "modified": "2025-12-20T17:49:15.474265688+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "bb74508d-f3e6-45ed-8dcf-56ab10fa79ef",
+      "type": "text",
+      "title": "bb74508d-f3e6-45ed-8dcf-56ab10fa79ef",
+      "position": {
+        "x": 398.99786008905915,
+        "y": 348.0837252784397
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T17:49:15.474308292+00:00",
+      "modified": "2025-12-20T17:49:15.474311085+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
+      "type": "code",
+      "title": "bdfdf8ef-d538-4280-9c6c-fe24a6bcf8ac",
+      "position": {
+        "x": 523.1860823309535,
+        "y": 693.034588731339
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T17:49:15.474342794+00:00",
+      "modified": "2025-12-20T17:49:15.474345169+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "09c4946a-89f5-434f-9d75-4fa77407350a",
+      "type": "video",
+      "title": "09c4946a-89f5-434f-9d75-4fa77407350a",
+      "position": {
+        "x": 1131.6676827084782,
+        "y": 472.87964681164954
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T17:49:15.474377017+00:00",
+      "modified": "2025-12-20T17:49:15.474379880+00:00",
+      "tags": [],
+      "contentRef": null,
+      "pinned": null,
+      "parent_ids": [],
+      "collapsed": null,
+      "color": null
+    }
+  ]
+}
