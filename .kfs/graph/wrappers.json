@@ -1,3 +1,25 @@
 {
-  "nodes": []
+  "nodes": [
+    {
+      "id": "8da8f469-d549-4cad-bae2-1cf19756722d",
+      "type": "wrapper",
+      "title": "New Wrapper",
+      "position": {
+        "x": 783.4157947378061,
+        "y": 555.4896598711823
+      },
+      "size": {
+        "width": 300.0,
+        "height": 200.0
+      },
+      "created": "2025-12-20T19:19:45.251Z",
+      "modified": "2025-12-20T19:19:45.251Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": [],
+      "collapsed": false,
+      "color": "#3b82f6"
+    }
+  ]
 }
