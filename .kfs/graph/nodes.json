@@ -5,8 +5,8 @@
       "type": "code",
       "title": "1",
       "position": {
-        "x": 10.910514908246824,
-        "y": 382.6342584283729
+        "x": 214.80324979193145,
+        "y": 389.20829033812976
       },
       "size": {
         "width": 300.0,
@@ -39,7 +39,7 @@
       "modified": "2025-12-20T19:06:26.168987552+00:00",
       "tags": [],
       "contentRef": null,
-      "pinned": true,
+      "pinned": false,
       "parent_ids": [],
       "collapsed": null,
       "color": null
@@ -49,8 +49,8 @@
       "type": "code",
       "title": "2",
       "position": {
-        "x": 11.344932656882534,
-        "y": 667.1845819720949
+        "x": 150.19468875770175,
+        "y": 662.4260637706809
       },
       "size": {
         "width": 300.0,
@@ -72,8 +72,8 @@
       "type": "code",
       "title": "6",
       "position": {
-        "x": 878.6345216983839,
-        "y": 465.0524352881961
+        "x": 610.6629276100896,
+        "y": 422.6475430987733
       },
       "size": {
         "width": 300.0,
@@ -104,7 +104,7 @@
       "modified": "2025-12-20T19:06:26.169135197+00:00",
       "tags": [],
       "contentRef": null,
-      "pinned": true,
+      "pinned": false,
       "parent_ids": [],
       "collapsed": null,
       "color": null
