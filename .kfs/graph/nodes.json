@@ -28,8 +28,8 @@
       "type": "quiz",
       "title": "8",
       "position": {
-        "x": 1247.4295458343836,
-        "y": 285.87161462876156
+        "x": 457.22028462852256,
+        "y": 135.19303871059404
       },
       "size": {
         "width": 300.0,
@@ -39,7 +39,7 @@
       "modified": "2025-12-20T19:06:26.168987552+00:00",
       "tags": [],
       "contentRef": null,
-      "pinned": true,
+      "pinned": false,
       "parent_ids": [],
       "collapsed": null,
       "color": null
@@ -93,8 +93,8 @@
       "type": "video",
       "title": "4",
       "position": {
-        "x": 1187.9298209702872,
-        "y": 761.1668347963547
+        "x": 432.0705933110102,
+        "y": 485.4947357733616
       },
       "size": {
         "width": 300.0,
@@ -104,7 +104,7 @@
       "modified": "2025-12-20T19:06:26.169135197+00:00",
       "tags": [],
       "contentRef": null,
-      "pinned": true,
+      "pinned": false,
       "parent_ids": [],
       "collapsed": null,
       "color": null
