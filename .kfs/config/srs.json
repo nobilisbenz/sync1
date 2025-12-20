@@ -1,0 +1,44 @@
+{
+  "new_cards_per_day": 20,
+  "max_reviews_per_day": 200,
+  "new_cards_ignore_review_limit": false,
+  "learning_steps": [
+    1,
+    10
+  ],
+  "graduating_interval": 1,
+  "easy_interval": 4,
+  "starting_ease": 2.5,
+  "insertion_order": "sequential",
+  "relearning_steps": [
+    10
+  ],
+  "minimum_interval": 1,
+  "leech_threshold": 8,
+  "leech_action": "tag",
+  "new_card_gather_order": "deck",
+  "new_card_sort_order": "card_type",
+  "new_review_order": "mix_with_reviews",
+  "interday_learning_mix": "mix_with_reviews",
+  "review_sort_order": "due_date",
+  "fsrs_enabled": false,
+  "fsrs_weights": [],
+  "bury_new_siblings": false,
+  "bury_review_siblings": false,
+  "bury_interday_learning_siblings": false,
+  "auto_advance_seconds": 0.0,
+  "auto_reveal_seconds": 0.0,
+  "question_action": "show_answer",
+  "answer_action": "bury",
+  "wait_for_audio": true,
+  "maximum_interval": 36500,
+  "easy_days": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ]
+}
