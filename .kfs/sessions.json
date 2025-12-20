@@ -1,0 +1,12 @@
+{
+  "sessions": [
+    {
+      "id": "b80613db-7683-4feb-bdcd-ad47fc6894af",
+      "name": "a",
+      "createdAt": "2025-12-20T20:23:33.478253920+00:00",
+      "lastActive": "2025-12-20T20:23:33.478262373+00:00",
+      "completedNodes": []
+    }
+  ],
+  "active_session_id": "b80613db-7683-4feb-bdcd-ad47fc6894af"
+}
