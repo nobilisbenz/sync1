@@ -68,8 +68,8 @@
       "type": "text",
       "title": "dd",
       "position": {
-        "x": 696.6060731111005,
-        "y": 592.8725296371995
+        "x": 666.825129300263,
+        "y": 552.736839031275
       },
       "size": {
         "width": 80.0,
@@ -89,8 +89,8 @@
       "type": "code",
       "title": "New Node",
       "position": {
-        "x": 623.8238820139043,
-        "y": 727.8604848279487
+        "x": 594.0547207002362,
+        "y": 687.6987913970498
       },
       "size": {
         "width": 80.0,
@@ -98,6 +98,27 @@
       },
       "created": "2025-12-20T18:25:56.995Z",
       "modified": "2025-12-20T18:25:56.995Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
+      "collapsed": null,
+      "color": null
+    },
+    {
+      "id": "6afd652c-0239-42ea-97e2-433f2e26078b",
+      "type": "code",
+      "title": "New Node",
+      "position": {
+        "x": 1329.0,
+        "y": 621.0
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T18:51:54.002Z",
+      "modified": "2025-12-20T18:51:54.002Z",
       "tags": [],
       "contentRef": null,
       "pinned": false,
