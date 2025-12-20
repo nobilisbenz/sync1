@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "bb74508d-f3e6-45ed-8dcf-56ab10fa79ef",
+      "type": "text",
+      "title": "New Node",
+      "position": {
+        "x": 958.0,
+        "y": 531.0
+      },
+      "size": {
+        "width": 80.0,
+        "height": 80.0
+      },
+      "created": "2025-12-20T17:33:19.159Z",
+      "modified": "2025-12-20T17:33:19.159Z",
+      "tags": [],
+      "contentRef": null,
+      "pinned": false,
+      "parent_ids": null,
+      "collapsed": null,
+      "color": null
+    }
+  ]
+}
