@@ -23,14 +23,6 @@
       "type": "default",
       "label": null,
       "strength": null
-    },
-    {
-      "id": "a2fd4f77-88f6-483b-842d-de3eb73df750",
-      "source": "76b06011-e235-45e3-b938-d1aafbeb5dbf",
-      "target": "0ba76104-c762-46dc-9d58-6ab74dd75a63",
-      "type": "default",
-      "label": null,
-      "strength": null
     }
   ]
 }
