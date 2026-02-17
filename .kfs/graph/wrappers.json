@@ -5,8 +5,8 @@
       "type": "wrapper",
       "title": "New Wrapper",
       "position": {
-        "x": 161.73834193272347,
-        "y": 583.9136062886295
+        "x": 190.1089370690319,
+        "y": 576.497048257477
       },
       "size": {
         "width": 542.5239311738819,
@@ -16,9 +16,9 @@
       "modified": "2025-12-20T19:19:45.251Z",
       "tags": [],
       "contentRef": null,
-      "pinned": false,
+      "pinned": true,
       "parent_ids": [],
-      "collapsed": true,
+      "collapsed": false,
       "color": "#3b82f6"
     }
   ]
